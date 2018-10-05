@@ -1,0 +1,2 @@
+# what-safe
+file.js
